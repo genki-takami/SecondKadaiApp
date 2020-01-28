@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3772B5A223E0B10B00B635D7 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3772B5A123E0B10B00B635D7 /* ResultViewController.swift */; };
 		37EE7B4823E0A73100257898 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37EE7B4723E0A73100257898 /* AppDelegate.swift */; };
 		37EE7B4A23E0A73100257898 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37EE7B4923E0A73100257898 /* SceneDelegate.swift */; };
 		37EE7B4C23E0A73100257898 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37EE7B4B23E0A73100257898 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3772B5A123E0B10B00B635D7 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 		37EE7B4423E0A73100257898 /* SecondKadaiApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SecondKadaiApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		37EE7B4723E0A73100257898 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		37EE7B4923E0A73100257898 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				37EE7B4723E0A73100257898 /* AppDelegate.swift */,
 				37EE7B4923E0A73100257898 /* SceneDelegate.swift */,
 				37EE7B4B23E0A73100257898 /* ViewController.swift */,
+				3772B5A123E0B10B00B635D7 /* ResultViewController.swift */,
 				37EE7B4D23E0A73100257898 /* Main.storyboard */,
 				37EE7B5023E0A73200257898 /* Assets.xcassets */,
 				37EE7B5223E0A73200257898 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				37EE7B4C23E0A73100257898 /* ViewController.swift in Sources */,
 				37EE7B4823E0A73100257898 /* AppDelegate.swift in Sources */,
 				37EE7B4A23E0A73100257898 /* SceneDelegate.swift in Sources */,
+				3772B5A223E0B10B00B635D7 /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
